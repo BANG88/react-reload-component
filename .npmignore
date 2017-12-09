@@ -1,0 +1,7 @@
+*.ts
+!*.d.ts
+tsconfig.json
+tslint.json
+snapshots*
+.prettierignore
+.prettierrc

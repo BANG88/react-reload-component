@@ -1,6 +1,6 @@
 {
   "name": "react-reload-component",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Update component when location is same ",
   "license": "MIT",
   "repository": "bang88/react-reload-component",

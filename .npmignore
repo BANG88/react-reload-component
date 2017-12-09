@@ -1,5 +1,4 @@
-*.ts
-!*.d.ts
+*.tsx
 tsconfig.json
 tslint.json
 snapshots*
